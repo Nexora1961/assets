@@ -1,10 +1,19 @@
 {
-    "name": "Nexora",
-    "symbol": "NEX",
-    "decimals": 18,
-    "description": "Nexora is a decentralized ERC20 token designed to power next-generation financial and identity systems.",
-    "website": "https://nexora.io",
-    "explorer": "https://etherscan.io/token/0x9145CCE52D386f254917e481eB44e9943F39138",
-    "status": "active",
-    "id": "0x9145CCE52D386f254917e481eB44e9943F39138"
+  "name": "Nexora",
+  "symbol": "NEX",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Nexora (NEX) is the native utility token powering decentralized innovation, enabling Web3 transactions, liquidity, and ecosystem rewards.",
+  "website": "https://nexoracrypto.com",
+  "explorer": "https://etherscan.io/token/0x58412AE274F2764B71c66315D97662d47d930d94",
+  "status": "active",
+  "id": "nexora",
+  "tags": [
+    "defi",
+    "utility-token"
+  ],
+  "links": {
+    "twitter": "https://twitter.com/NexoraCoin26112",
+    "telegram": "https://t.me/Nexora_Global"
+  }
 }
