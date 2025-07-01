@@ -1,0 +1,16 @@
+{
+  "name": "Nexora",
+  "symbol": "NEX",
+  "decimals": 18,
+  "type": "ERC20",
+  "description": "Nexora is a community-driven cryptocurrency project built on Ethereum, focused on security, growth, and real-world adoption.",
+  "website": "https://nexoracrypto.com",
+  "explorer": "https://etherscan.io/token/0x58412Ae274F2764B71c66315D97662d47d930d94",
+  "status": "active",
+  "tags": ["defi", "utility", "ethereum"],
+  "twitter": "https://twitter.com/NexoraCoin26112",
+  "telegram": "https://t.me/Nexora_Global",
+  "github": "https://github.com/Nexora1961",
+  "discord": "https://discord.gg/YvuuXhRwZg",
+  "facebook": "https://www.facebook.com/nexora.477824"
+}
